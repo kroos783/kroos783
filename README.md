@@ -11,7 +11,7 @@
 <!-- QUICK LINKS -->
 <a href="https://alexandreblind.fr/"><img src="https://img.shields.io/badge/🌐 Portfolio-alexandreblind.fr-0d1117?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:contact@alexandreblind.fr"><img src="https://img.shields.io/badge/📧 Email-Hire Me-00d26a?style=for-the-badge" /></a>
-<a href="https://bd.linkedin.com/in/kroos783"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://bd.linkedin.com/in/alexandre-bld/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
